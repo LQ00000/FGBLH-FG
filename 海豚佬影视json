@@ -284,6 +284,18 @@
 			"name": "🐬51吃瓜｜🔞",
 			"type": 4
 		}
+         {
+			"api": "https://learnpython.ggff.net/7QU",
+			"key": "7QU",
+			"name": "🐬7QU｜🔞",
+			"type": 4
+		},
+		{
+			"api": "https://learnpython.ggff.net/XHSM",
+			"key": "XHSM",
+			"name": "🐬传媒映画｜🔞",
+			"type": 4
+		}
         ],
     "parses": [
        
