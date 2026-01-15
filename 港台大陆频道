@@ -96,6 +96,7 @@ Now新闻台1080p,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻台1080p,http://rihou.cc:555/tv/[Mt]Now新闻
 Now新闻台1080p,https://cdn.163189.xyz/163189/now
 Now新闻台1080p,http://rihou.cc:555/tv/[Cx]Now新闻
+Now新闻台1080p,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 Now财经1080p,http://hls.168.us.kg/u/333/master.m3u8
 Now财经1080p,http://rihou.cc:555/tv/[Mt]Now财经
 Now直播1080p,https://stream1.freetv.fun/2513c26261a06c512471eb0ad14c99576978654e8e494c2a8cd6571c3a3b7c50.ctv
@@ -171,6 +172,7 @@ CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 澳视澳门,https://cdn6.101.qzz.io/163189/asam
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
 澳视Macau,http://php.jdshipin.com/TVOD/iptv.php?id=as
+澳门体育1080p,http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 东森综合HD,http://156.238.248.80/2099.php?id=356
 东森戏剧HD,http://156.238.248.80/2099.php?id=359
@@ -349,6 +351,7 @@ CGTN阿语,https://arabic-liveali.CGTN.com/hls/LSveq57bErWLinBnxosqjisZ220802LST
 深圳卫视,http://tvlist.top/jd/index.php?id=szws&qt=183.224.122.114:8014
 深圳卫视,http://tvlist.top/jd/index.php?id=szws&qt=118.212.78.251:8014
 深圳卫视,https://py.doube.eu.org/ysp/2024061303/600002481
+深圳卫视4K,http://cdn3.veryfast.filegear-sg.me/live/szws4k/stream.m3u8
 湖南卫视,http://tvlist.top/jd/index.php?id=hunanws&qt=183.224.122.114:8014
 湖南卫视,http://tvlist.top/jd/index.php?id=hunanws&qt=118.212.78.251:8014
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
