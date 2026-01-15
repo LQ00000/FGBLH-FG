@@ -13,6 +13,7 @@
 广东体育1080p,http://rihou.cc:555/tv/[AtI]广东体育
 广东体育720p,http://74.91.26.218:82/live/gdty.m3u8
 广东新闻1080p,http://rihou.cc:555/tv/[AtI]广东新闻
+广东新闻720p,https://www.wmviv.com/iptv/bc2t.php?id=gdxw
 广东影视1080p,http://rihou.cc:555/tv/[AtI]广东影视
 广东民生1080p,http://rihou.cc:555/tv/[AtI]广东民生
 广东经济科教1080p,http://rihou.cc:555/tv/[AtI]广东经济
@@ -27,6 +28,7 @@
 翡翠台1080p,http://r.jdshipin.com/62WM7
 翡翠台1080p,http://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台1080p,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+翡翠台4K,https://www.wmviv.com/iptv/bc2t.php?id=fct4k
 明珠台1080p,http://rihou.cc:555/tv/[Pd]无线明珠
 明珠台1080p,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台1080p,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
@@ -95,6 +97,7 @@ Now新闻台1080p,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻台1080p,http://rihou.cc:555/tv/[Mt]Now新闻
 Now新闻台1080p,https://cdn.163189.xyz/163189/now
 Now新闻台1080p,http://rihou.cc:555/tv/[Cx]Now新闻
+Now新闻台1080p,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 Now财经1080p,http://hls.168.us.kg/u/333/master.m3u8
 Now财经1080p,http://rihou.cc:555/tv/[Mt]Now财经
 Now直播1080p,https://stream1.freetv.fun/2513c26261a06c512471eb0ad14c99576978654e8e494c2a8cd6571c3a3b7c50.ctv
@@ -117,6 +120,7 @@ CTS華視新聞资讯1080p,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8
 民視新聞台720p,http://free.cnlive.club/channel/n4b747ee6.m3u8?q=111.170.171.148
 年代新聞HD 1080p,http://free.cnlive.club/channel/49184630.m3u8?q=111.170.171.148
 非凡新聞HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=44
+非凡新聞HD 720p,rtmp://f13h.mine.nu/sat/tv581
 寰宇新聞台720p,http://free.cnlive.club/channel/n43c34be8.m3u8?q=111.170.171.148
 TVBS新聞台HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=43
 中天娱乐HD 1080p,http://free.cnlive.club/channel/41d6f491.m3u8?q=111.170.171.148
@@ -128,8 +132,8 @@ TVBS新聞台HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=43
 台视综合HD,http://iptv.4666888.xyz/iptv2A.php?id=51
 台视综合HD,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283891
 台视综合HD,P2p://starvod.xyz:19806/c37a6ec58dd140ccab0e25b94849ee06.ts
-民视,rtmp://f13h.mine.nu/sat/tv051
-民视,http://iptv.4666888.xyz/iptv2A.php?id=55
+民视720p,rtmp://f13h.mine.nu/sat/tv051
+民视1080p,http://iptv.4666888.xyz/iptv2A.php?id=55
 民視第一台,http://141.11.87.241:20013/4gtv-4gtv003/index.m3u8?proxy=true
 民視第一台,http://165.154.226.214:50007/li-4gtv-4gtv003/index.m3u8?proxy=true
 民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
@@ -169,11 +173,14 @@ CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 澳视澳门,https://cdn6.101.qzz.io/163189/asam
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
 澳视Macau,http://php.jdshipin.com/TVOD/iptv.php?id=as
+澳门体育1080p,http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 东森综合HD,http://156.238.248.80/2099.php?id=356
 东森戏剧HD,http://156.238.248.80/2099.php?id=359
 
 电影频道,#genre#
+Now星影台(粤)576p,http://74.91.26.218:82/live/nowxy.m3u8
+Now星影台(粤)576p,https://stream1.freetv.fun/b56bee75906bfad78f50f3eccffccdc4ed2dfe763f4fd01135948baae9af8e35.m3u8
 CCTV6电影,http://tvlist.top/jd/index.php?id=cctv6&qt=118.212.78.251:8014
 CCTV6电影,http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
 CCTV6电影,http://kouki.pro:8888/udp/239.49.8.76:8000
@@ -209,11 +216,10 @@ AMC电影台,https://live.catvod.com/live.php?id=starmoviesgold_twn
 天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
 天映频道,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 天映频道,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
-龙华电影,https://live.catvod.com/iptv.php?id=lhdy01
-龙华电影,http://156.238.248.80/2099.php?id=116
-龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
-龙华电影,https://cdn8.163189.xyz/163189/lhdy
-龙华电影,P2p://starvod.xyz:19806/574ee66b78d44e6e81450ae523041523.ts
+龙华电影1080p,https://live.catvod.com/iptv.php?id=lhdy01
+龙华电影1080p,http://iptv.4666888.xyz/iptv2A.php?id=45
+龙华电影1080p,https://cdn8.163189.xyz/163189/lhdy
+龙华电影1080p(梯子),http://cdn8.veryfast.filegear-sg.me/163189/lhdy
 龙华洋片,https://live.catvod.com/iptv.php?id=lhyp01
 龙华洋片,http://156.238.248.80/2099.php?id=117
 緯來電影HD 1080p,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
@@ -345,6 +351,7 @@ CGTN阿语,https://arabic-liveali.CGTN.com/hls/LSveq57bErWLinBnxosqjisZ220802LST
 深圳卫视,http://tvlist.top/jd/index.php?id=szws&qt=183.224.122.114:8014
 深圳卫视,http://tvlist.top/jd/index.php?id=szws&qt=118.212.78.251:8014
 深圳卫视,https://py.doube.eu.org/ysp/2024061303/600002481
+深圳卫视4K,http://cdn3.veryfast.filegear-sg.me/live/szws4k/stream.m3u8
 湖南卫视,http://tvlist.top/jd/index.php?id=hunanws&qt=183.224.122.114:8014
 湖南卫视,http://tvlist.top/jd/index.php?id=hunanws&qt=118.212.78.251:8014
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
@@ -354,6 +361,7 @@ CGTN阿语,https://arabic-liveali.CGTN.com/hls/LSveq57bErWLinBnxosqjisZ220802LST
 湖南卫视,http://dodge.lwfz.fun:8800/rtp/239.16.20.72:10720
 湖南卫视,http://113.90.245.216:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://27.41.245.32:801/hls/27/index.m3u8
+湖南卫视4K,https://www.wmviv.com/iptv/bc2t.php?id=hunws4k
 湖北卫视,http://tvlist.top/jd/index.php?id=hbws&qt=183.224.122.114:8014
 湖北卫视,http://tvlist.top/jd/index.php?id=hbws&qt=118.212.78.251:8014
 湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86%E5%8F%B0
@@ -383,7 +391,6 @@ CGTN阿语,https://arabic-liveali.CGTN.com/hls/LSveq57bErWLinBnxosqjisZ220802LST
 北京卫视,http://tvlist.top/jd/index.php?id=bjws&qt=183.224.122.114:8014
 北京卫视,http://tvlist.top/jd/index.php?id=bjws&qt=118.212.78.251:8014
 北京卫视,https://py.doube.eu.org/ysp/2024052703/600002309
-北京卫视4K,http://home.amucn.net:8800/udp/239.49.0.42:8000
 安徽卫视,http://tvlist.top/jd/index.php?id=ahws&qt=183.224.122.114:8014
 安徽卫视,http://tvlist.top/jd/index.php?id=ahws&qt=118.212.78.251:8014
 安徽卫视,https://py.doube.eu.org/ysp/2024171403/600002532
@@ -447,6 +454,7 @@ CCTV14少儿,http://27.41.245.32:801/hls/14/index.m3u8
 金鹰卡通,http://shuangyashan.coccc.online:65000/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://vapi.91kds.cc/live2/jsqx.m3u8?id=ymkt&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
 优漫卡通,http://156.238.248.80/2099.php?id=250
+嘉佳卡通720p,https://www.wmviv.com/iptv/bc2t.php?id=jjkt&line=2
 浙江少儿,http://156.238.248.80/2099.php?id=220
 浙江少儿,http://vapi.91kds.cc/live1/zjtv2.m3u8?id=zjtv8&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -461,6 +469,7 @@ CCTV14少儿,http://27.41.245.32:801/hls/14/index.m3u8
 甘肃少儿,https://liveout.gstv.com.cn/skt649/ys1xzs.m3u8
 黑龙江少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 江西少儿,http://113.195.172.192:808/hls/11/index.m3u8
+龙华卡通720p,http://cdn8.veryfast.filegear-sg.me/163189/lhkt
 东森幼幼台,https://live.catvod.com/live.php?id=yoyo_twn
 
 一起看电影,#genre#
