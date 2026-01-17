@@ -172,28 +172,24 @@ TVBS新聞台HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=43
 民视综艺1080p,https://stream1.freetv.fun/1b47ca26b5937e3c39bafc6969f66e1ef01d0ea00773163e5b7a9b7fccf082c5.m3u8
 民视影劇1080p,http://iptv.4666888.xyz/iptv2A.php?id=53
 民視影劇1080p,https://stream1.freetv.fun/07a927f5ea19746f63e8e92cd1889151f4edb274910ea867c19eaf31e04a9901.m3u8
-八大綜藝台,http://165.154.226.214:50007/li-4gtv-4gtv039/index.m3u8?proxy=true
-八大精彩台,http://165.154.226.214:50007/li-4gtv-4gtv034/index.m3u8?proxy=true
-TVBS精采台HD,http://iptv.4666888.xyz/iptv2A.php?id=47
-TVBS精采台HD,http://165.154.226.214:50007/li-4gtv-4gtv067/index.m3u8?proxy=true
-三立综合台,P2p://147.135.39.171:9906/6869374a000888579acb331f46c77c60.ts
-壹综合HD,P2p://147.135.39.171:9906/685f810d000eeaf174db4a19563a6520.ts
-好消息,http://165.154.226.214:50007/of-litv-ftv16/index.m3u8?proxy=true
-好消息2台,http://165.154.226.214:50007/of-litv-ftv17/index.m3u8?proxy=true
-緯來體育HD,rtmp://f13h.mine.nu/sat/tv721
+八大綜藝台1080p,http://165.154.226.214:50007/li-4gtv-4gtv039/index.m3u8?proxy=true
+八大精彩台1080p,http://165.154.226.214:50007/li-4gtv-4gtv034/index.m3u8?proxy=true
+三立台湾台1080p,http://23.128.116.71:5589/live.php?id=sanlitaiwan&h=23.128.116.71&p=22364&token=1768656088.86691cca94504da575d8df777cf38454e46d310d063477dfb6dc26c93a6a248f
+三立综合台720p,http://23.128.116.71:5589/live.php?id=sanlizhonghe&h=23.128.116.71&p=22364&token=1768656088.492115de19636f0cd4cf03421832bbed5f62da67f42781bc53be1a0faaf20858
+三立都会台1080p,http://23.128.116.71:5589/live.php?id=sanlidouhui_twn&h=23.128.116.71&p=22364&token=1768656088.71792c6eb5cad5cf0b18fea078d4b239afcebabadce35bd9315d491180a5e404
+三立戏剧台1080p,http://23.128.116.71:5589/live.php?id=sanlixiju_twn&h=23.128.116.71&p=22364&token=1768656088.9fbb23a20a7c3a7360e8bad0e362e55915cf9ff0026941769f8a92f662dfcf70
+TVBS精采台HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=47
+好消息1080p,http://165.154.226.214:50007/of-litv-ftv16/index.m3u8?proxy=true
+好消息2台1080p,http://165.154.226.214:50007/of-litv-ftv17/index.m3u8?proxy=true
 緯來精彩720p,https://stream1.freetv.fun/409fbf8e0ec33500b4d76956cca00af9fddacac6dd2f8822f464b089fb583a6b.m3u8
 緯來綜合HD 1080p,https://stream1.freetv.fun/541f6094f34e0290077cf0d55df31c49bc148118e6b030fa2165d5c8c35a6d1f.m3u8
-DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
-DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
-龙华经典,https://cdn8.163189.xyz/163189/lhjd
-龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
-龙华经典,http://156.238.248.80/2099.php?id=118
-龙华偶像,http://156.238.248.80/2099.php?id=120
-龙华偶像,https://cdn8.163189.xyz/163189/lhox
-龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
-龙华日韩,http://156.238.248.80/2099.php?id=121
-龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
-龙华日韩,https://cdn8.163189.xyz/163189/lhrh
+龙华经典1080p,https://cdn8.163189.xyz/163189/lhjd
+龙华经典1080p,http://rihou.cc:555/tv/[Pd]龙华经典
+龙华偶像1080,https://cdn8.163189.xyz/163189/lhox
+龙华偶像1080p,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华偶像720p,http://23.128.116.71:5589/live.php?id=lunghuaidol_twn&h=23.128.116.71&p=22364&token=1768656088.0a9d5f021d7e75b02ff4fc1935240e3d1b68715c25ab4bae884fd671c63d90ac
+龙华日韩1080p,http://rihou.cc:555/tv/[Pd]龙华日韩
+龙华日韩1080p,https://cdn8.163189.xyz/163189/lhrh
 龙华戏剧,http://156.238.248.80/2099.php?id=122
 龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
 龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
@@ -248,13 +244,14 @@ AMC电影台,https://live.catvod.com/live.php?id=starmoviesgold_twn
 美亚电影台HD,http://iptv.4666888.xyz/iptv2A.php?id=30
 美亚电影台HD,P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
 美亚电影台(粤)576p,http://74.91.26.218:82/live/mydy.m3u8
-美亚电影台((粤))720p,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wjcSI0&tk=inWducl7RAaR
-美亚电影台(国),http://rihou.cc:555/tv/[PL]美亚电影
+美亚电影台(粤)720p,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wjcSI0&tk=inWducl7RAaR
+美亚电影台(国),http://74.91.26.218:82/live/mydy.m3u8
 美亚电影台(国),http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影台(国),https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 美亚电影台(国),http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影台(国),http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 东森电影HD,http://iptv.4666888.xyz/iptv2A.php?id=48
+东森电影HD,https://live.saileitv.com/channel/n5502f4/index.m3u8?q=1768660386565&sign=097c2fa48ab623ba6c6327404a1375c9&ts=1768660887
 华数电影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
 靖天電影台,http://iptv.4666888.xyz/iptv2A.php?id=56
 靖天電影台,P2p://starvod.xyz:19806/7a72ea8d27d64fb9aae835c30af3b1cc.ts
@@ -270,7 +267,8 @@ AMC电影台,https://live.catvod.com/live.php?id=starmoviesgold_twn
 龙华电影1080p(梯子),http://cdn8.veryfast.filegear-sg.me/163189/lhdy
 龙华洋片,https://live.catvod.com/iptv.php?id=lhyp01
 龙华洋片,http://156.238.248.80/2099.php?id=117
-緯來電影HD 1080p,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
+龙祥时代1080p,http://23.128.116.71:5589/live.php?id=lungxiangtime_twn&h=23.128.116.71&p=22364&token=1768656088.9568be950d58b8a02f43f238bdd447f3d6d89ae9a3538b950d0a6322a0ec4230
+緯來電影HD 1080p,http://23.128.116.71:5589/live.php?id=videolandmovie&h=23.128.116.71&p=22364&token=1768656088.7cfab29e31a4d92960308bc41781955067656d64c99658a37feeaa185443399a
 
 大陆频道,#genre#
 CCTV1综合,http://iptv.4666888.xyz/iptv2A.php?id=7
