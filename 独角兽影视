@@ -106,32 +106,44 @@
 			"type": 4,
 			"api": "https://catbox.n13.club/t9/huaxiaozhu.php"
 		},
-      {
-      "key": "量子2k",
-      "name": "🦄量子影视｜追剧",
-      "type": 1,
-      "api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playurl": "json:https://lziplayer.com/?url=",
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "泰国剧",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "韩国剧",
-        "日本剧",
-        "动漫",
-        "体育",
-        "剧情片",
-        "动作片",
-        "爱情片",
-        "喜剧片"
-      ]
-      },
+        {
+			"key": "T4-jimi",
+			"name": "🦄吉米｜追剧",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/jimi.php"
+		},
+		{
+			"key": "T4-batian",
+			"name": "🦄八天｜追剧",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/batian.php"
+		},
+        {
+            "key": "量子2k",
+            "name": "🦄量子影视｜追剧",
+            "type": 1,
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "playurl": "json:https://lziplayer.com/?url=",
+            "categories": [
+               "国产剧",
+               "国产动漫",
+               "泰国剧",
+               "台湾剧",
+               "香港剧",
+               "欧美剧",
+               "韩国剧",
+               "日本剧",
+               "动漫",
+               "体育",
+               "剧情片",
+               "动作片",
+               "爱情片",
+               "喜剧片"
+       ]
+       },
        {
 			"key": "爱瓜TV",
 			"name": "🦄爱瓜TV｜追剧",
