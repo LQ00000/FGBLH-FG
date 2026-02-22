@@ -682,6 +682,9 @@
 		"bilibili",
 		"renrenmi"
 	],
+ "ads": [
+        "static-mozai.4gtv.tv"
+    ],
 "lives": [
         {
             "name": "🦄地方直播",
