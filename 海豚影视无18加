@@ -480,7 +480,7 @@
             "url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u"
         },
         {
-            "name": "🐬mytv",
+            "name": "🐬新港台频道",
             "type": 0,
             "ua": "okhttp",
             "url": "https://cdn.qd.je/live.m3u"
