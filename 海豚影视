@@ -738,10 +738,16 @@
             "url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u"
         },
         {
-            "name": "🐬Mytv",
+            "name": "🐬Mytv1",
             "type": 0,
             "ua": "okhttp",
             "url": "https://cdn.qd.je/live.m3u"
+        },
+        {
+            "name": "🐬Mytv2",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u"
         },
         {
             "name": "🐬黄蚂蚁先锋推流源",
