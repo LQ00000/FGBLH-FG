@@ -29,24 +29,13 @@
         "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
         "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002108-a4795930ec.js"
         },
-		{
-			"key": "暴风",
-			"name": "🐬暴风影视",
-			"type": 0,
-			"api": "https://app.bfzyapi.com/api.php/provide/vod/",
-			"searchable": 1,
-			"filterable": 1,
-			"quickSearch": 1,
-			"categories": ["国产动漫", "日韩动漫", "欧美动漫", "海外动漫", "动画片", "国产剧", "韩国剧", "香港剧", "台湾剧", "欧美剧", "动作片", "科幻片", "喜剧片", "恐怖片", "战争片"]
-		},
-		{
-      "key": "金鹰资源",
-      "name": "🐬金鹰资源",
-      "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
+		 {
+      "key": "天涯资源",
+      "name": "🐬天涯资源",
+      "type": 0,
+      "api": "https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "quickSearch": 1
     },
 	{
       "key": "闪电影视",
