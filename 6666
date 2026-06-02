@@ -11,16 +11,12 @@
     "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
   },
      {
-      "api": "csp_missav",
-      "click": "",
-      "homePage": "https://fgblh.github.io/uhuj.github.io/missav.html",
-      "id": "c3731269bb6187cd029acee394f9941u",
-      "key": "MS",
-      "name": "missav",
-      "playUrl": "",
-      "type": 3,
-      "webHome": true
-    },
+        "key":"MissAV",
+        "name":"🔞┃MissAV┃番号",
+        "type":3,
+        "api":"csp_MissAV",
+        "homePage":"https://fgblh.github.io/uhuj.github.io/missav.html"
+      },
       {
       "key": "非凡",
       "name": "🐬非凡影视",
